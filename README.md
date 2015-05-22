@@ -1,5 +1,13 @@
 # react-starter
-Starter Repo for React with webpack, ES6, and Karma
+Starter Repo for Express app using React with Webpack, ES6, and Karma
+
+Pre-reqs:
+Webpack
+```
+    npm install webpack -g
+```    
+
+Then do the following.
 
     npm install
 
